@@ -30,6 +30,7 @@ nav a:hover{
 .contenedor p{
     color: #555;
     font-size: 16px;
+    line-height: 1.6;
 }
 footer{
     background-color: #333;
